@@ -4,7 +4,7 @@ var typewriter = new Typewriter(app, {
     loop: true
 });
 //Comentarios randoms
-typewriter.typeString('Ing. en Redes Digitales y Ciberseguridad')
+typewriter.typeString('Ing. en Redes Inteligentes y Ciberseguridad')
     .pauseFor(2500)
     .deleteAll()
     .typeString('Aqui iría algo super innovador... ¡claro!, si lo hubiera pensado')
