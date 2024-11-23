@@ -1,2 +1,2 @@
 # portafolio-karlaherrera
-description Bootcamp TecnolochicasPro - Portafolio
+Bootcamp TecnolochicasPro - Portafolio
